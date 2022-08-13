@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Header Files\QUAN_LY_NHAN_SU">
+      <UniqueIdentifier>{7520770d-0e02-48c3-b2e0-4fbc7be541ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\QUAN_LY_BAN_AN">
+      <UniqueIdentifier>{7c239ce8-3f2f-404b-be1c-d6ca29a0389e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Nhan_vien.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Nhan_vien_bao_ve.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Nhan_vien_phuc_vu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="nhan_vien_ke_toan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QL_nhan_su.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mon_an.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ban_an.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QL_BAN_AN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Nhan_vien_bao_ve.h">
+      <Filter>Header Files\QUAN_LY_NHAN_SU</Filter>
+    </ClInclude>
+    <ClInclude Include="nhan_vien_ke_toan.h">
+      <Filter>Header Files\QUAN_LY_NHAN_SU</Filter>
+    </ClInclude>
+    <ClInclude Include="Nhan_vien_phuc_vu.h">
+      <Filter>Header Files\QUAN_LY_NHAN_SU</Filter>
+    </ClInclude>
+    <ClInclude Include="QL_nhan_su.h">
+      <Filter>Header Files\QUAN_LY_NHAN_SU</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files\Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Nhan_vien.h">
+      <Filter>Header Files\QUAN_LY_NHAN_SU</Filter>
+    </ClInclude>
+    <ClInclude Include="Mon_an.h">
+      <Filter>Header Files\QUAN_LY_BAN_AN</Filter>
+    </ClInclude>
+    <ClInclude Include="QL_BAN_AN.h">
+      <Filter>Header Files\QUAN_LY_BAN_AN</Filter>
+    </ClInclude>
+    <ClInclude Include="Ban_an.h">
+      <Filter>Header Files\QUAN_LY_BAN_AN</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="huonh_doi_tuong.rc">
+      <Filter>Header Files\QUAN_LY_NHAN_SU</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

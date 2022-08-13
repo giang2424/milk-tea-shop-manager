@@ -1,0 +1,14 @@
+﻿  QL_nhan_su.cpp
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(62,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(74,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(86,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(117,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(134,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(138,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(148,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(154,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\huonh_doi_tuong\QL_nhan_su.cpp(160,20): warning C4018: '<': signed/unsigned mismatch
+  huonh_doi_tuong.vcxproj -> C:\Users\HA MINH HIEU\source\repos\huonh_doi_tuong\Debug\huonh_doi_tuong.exe
